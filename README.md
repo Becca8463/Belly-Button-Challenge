@@ -1,1 +1,2 @@
 # Belly-Button-Challenge
+In this challenge I was tasked to build an interactive dashboard to use the Belly Button Biodiversity Dataset. This dataset catalogs the microbes that colonize human navels. I created a bar chart that shows the top 10 OTUs found in that one individual and bubble chart that shows each sample. In this challenge I was able to refer to the lessons and tasks from class to help. 
